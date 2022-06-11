@@ -3,14 +3,14 @@ This is a task to create a simple version of the game using Python i.e Player(us
 
 About:
 
-There are 3 options
-"R" for "Rock"
-"P" for "Paper"
-"S" for "Scissors"
+There are 3 options.   
+"R" for "Rock".    
+"P" for "Paper".  
+"S" for "Scissors".      
 
-Rock beats Scissors
-Paper beats Rock
-Scissors beats Paper
+Rock beats Scissors.  
+Paper beats Rock.  
+Scissors beats Paper. 
 
 1) When the program runs it asks the player to pick an option from "R", "P", and "S".
 2) If the user's input is invalid, it prints out an error message and then returns to Step 1.
